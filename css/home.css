@@ -1,0 +1,24 @@
+/* Main Selection Section */
+.selection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.selection h2{
+    color: #08526d;
+    font-size: 1.75rem;
+    margin: 50px 0;
+}
+.selection i {
+    color: #6ad088;
+}
+.selection a {
+    color: #fff;
+    text-decoration: none;
+     
+}
+.selection a:hover{
+    text-decoration: none;
+    cursor: pointer;
+     color: #fff;
+}
